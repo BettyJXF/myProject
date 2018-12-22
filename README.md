@@ -1,0 +1,2 @@
+# myProject
+a js file
